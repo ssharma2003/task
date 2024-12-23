@@ -56,43 +56,93 @@
         <!-- campus choose area start -->
         
 
+    <div class="container my-5">
+                    <div class="row align-items-center justify-content-center text-center">
+                        <div class="col-lg-10">
+                            <div class="tp-faq-box">
+                                <div class="tpd-accordion">
+                                    <div class="accordion accordion-flush" id="accordionFlushExample">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMission" aria-expanded="false" aria-controls="flush-collapseMission">
+                                                Member Functions of the Committee
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseMission" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body">
+                                                <ul>
+                                                    <li>Abiya Shaji participated in RRC State level online Quiz competition conducted by Tamil Nadu State AIDS Control Society (TANSACS) on 21st November 2022 and was awarded a winner up at the District level & won a Cash prize award of Rs. 5000.</li>
+                                                    <li>Sowmiya. R & Ms. Irfana won 1st prize in Poster presentation on AI in Health conducted by SPT Hospital, Gandhipuram on 17.07.2023.</li>
+                                                    <li>Heshavaruni P was selected in the District level World Skills Pre-Screening Test organized by TNASDCH held at KG Institute of Health Sciences on 07.02.2024 & participated in the state level World Skills competition held at Chennai.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseVision" aria-expanded="false" aria-controls="flush-collapseVision">
+                                                SNA Zonal Level Competition – Ganga College of Nursing
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseVision" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>Ashima participated in Poster presentation and was awarded as Winner.</li>
+                                                    <li>Subarna participated in Poster presentation and was awarded as Runner.</li>
+                                                    <li>Silja participated in Glazy Pot and was awarded as Winner.</li>
+                                                    <li>Jayasree participated in Face Painting and was awarded as Runner.</li>
+                                                </ul>                                                
+                                            </div>
+                                            </div>
+                                        </div>
 
-        <div class='container'>
-        
-        
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsePurpose" aria-expanded="false" aria-controls="flush-collapsePurpose">
+                                                SNA State Level Competition- TNSNACON- Daran College of Nursing
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapsePurpose" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>Won runner in Javelin Throw.</li>
+                                                 </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-        <h1 class="unique-header">Member Functions of the Committee</h1>
-        <ul>
-  <li>Abiya Shaji participated in RRC State level online Quiz competition conducted by Tamil Nadu State AIDS Control Society (TANSACS) on 21st November 2022 and was awarded a winner up at the District level & won a Cash prize award of Rs. 5000.</li>
-  <li>Sowmiya. R & Ms. Irfana won 1st prize in Poster presentation on AI in Health conducted by SPT Hospital, Gandhipuram on 17.07.2023.</li>
-  <li>Heshavaruni P was selected in the District level World Skills Pre-Screening Test organized by TNASDCH held at KG Institute of Health Sciences on 07.02.2024 & participated in the state level World Skills competition held at Chennai.</li>
+                                        
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMotto" aria-expanded="false" aria-controls="flush-collapseMotto">
+                                                NATIONAL LEVEL- Nehru Institute of Health Sciences
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseMotto" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>Winners in Throw ball.</li>
+                                                    <li>Runners in 100 Meters.</li>
+                                                    <li>Winner in Relay.</li>
+                                                    <li>Runner in Short put.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-        </ul>
+                                        
+                                    </div>
+                                </div>
+                            </div>
 
-        <h1 class="unique-header">SNA Zonal Level Competition – Ganga College of Nursing</h1>
-        <ul>
-        <li>Ashima participated in Poster presentation and was awarded as Winner.</li>
-  <li>Subarna participated in Poster presentation and was awarded as Runner.</li>
-  <li>Silja participated in Glazy Pot and was awarded as Winner.</li>
-  <li>Jayasree participated in Face Painting and was awarded as Runner.</li>
-        </ul>
-
-        <h1 class="unique-header">SNA State Level Competition- TNSNACON- Daran College of Nursing</h1>
-        <ul>
-            <li>Won runner in Javelin Throw.</li>
-        </ul>
-
-        <h1 class="unique-header">NATIONAL LEVEL- Nehru Institute of Health Sciences</h1>
-        <ul>
-            <li>Winners in Throw ball.</li>
-            <li>Runners in 100 Meters.</li>
-            <li>Winner in Relay.</li>
-            <li>Runner in Short put.</li>
-        </ul>
-
-        
-    </div>
+                        </div>
+                    </div>
+                </div>
         <!-- campus choose area end -->
 
 

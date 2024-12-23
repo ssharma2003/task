@@ -122,48 +122,134 @@
             </tr>
         </table>
 
-        <h1 class="unique-header">Member Functions of the Committee</h1>
-        <ul>
-            <li>Screening the projects of M.Sc. Nursing, B. Sc. Nursing, and PBB. Sc. Nursing projects of KMCH.</li>
-            <li>Perusal and approval of research projects for ethical clearance.</li>
-            <li>Monitor the research activities carried out in KMCH College of Nursing.</li>
-            <li>Facilitating faculty members to conduct research projects and publish in journals.</li>
-            <li>For project approval, the concerned specialty head and more than 50% of the members must be present.</li>
-            <li>Frequency of the meeting: Once in 3 months.</li>
-        </ul>
 
-        <h1 class="unique-header">Ongoing Research</h1>
-        <ul>
-            <li>Effect of nurse-led intervention package on clinical and behavioural outcome among pregnant women with oligohydramnios selected tertiary hospital, Coimbatore – Prof. Ms. Padma Midwifery and Obstetrical Nursing Department.</li>
-            <li>Effectiveness of Nurse-Led-Interventions on Bio-Psycho-Social aspects among students studying in selected school, Coimbatore, Tamil Nadu – Prof. Ms. Jamuna Rani Mental Health Nursing Department.</li>
-            <li>Assessing the effectiveness of mental health promotion bundle on mental health outcome among preadolescents with screen dependency – Ms. Devi Krishna, Mental Health Nursing Department.</li>
-            <li>Effect of centre and voice call based (CV – DSMC) Diabetes self Management Coaching on Clinical and Behavioral outcome among elderly People with type2 Diabetes Mellitus at RHTC KMCH, Coimbatore – Prof. Ms. Malarkodi Community Health Nursing Department.</li>
-            <li>Effectiveness of mobile based life style modification on self–care compliance, metabolic profile and quality of life patients following Percutaneous coronary intervention – Ms. Jeevitha.J.V., Prof. Dr. S. Madhavi. Principal, Medical Surgical Nursing Department.</li>
-        </ul>
+        <div class="container my-5">
+                    <div class="row align-items-center justify-content-center text-center">
+                        <div class="col-lg-10">
+                            <div class="tp-faq-box">
+                                <div class="tpd-accordion">
+                                    <div class="accordion accordion-flush" id="accordionFlushExample">
+                                        <!-- Mission -->
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMission" aria-expanded="false" aria-controls="flush-collapseMission">
+                                                Member Functions of the Committee
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseMission" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body">
+                                                <ul>
+                                                    <li>Screening the projects of M.Sc. Nursing, B. Sc. Nursing, and PBB. Sc. Nursing projects of KMCH.</li>
+                                                    <li>Perusal and approval of research projects for ethical clearance.</li>
+                                                    <li>Monitor the research activities carried out in KMCH College of Nursing.</li>
+                                                    <li>Facilitating faculty members to conduct research projects and publish in journals.</li>
+                                                    <li>For project approval, the concerned specialty head and more than 50% of the members must be present.</li>
+                                                    <li>Frequency of the meeting: Once in 3 months.</li>
+                                                </ul>
+                                                    </div>
+                                            </div>
+                                        </div>
 
-        <h1 class="unique-header">Research Conference</h1>
-        <ul>
-            <li>National Nursing Research Summit 2023: National Level Conference Theme: Navigating to Excellence in Nursing Research.</li>
-        </ul>
+                                        <!-- Vision -->
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseVision" aria-expanded="false" aria-controls="flush-collapseVision">
+                                                Ongoing Research
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseVision" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>Effect of nurse-led intervention package on clinical and behavioural outcome among pregnant women with oligohydramnios selected tertiary hospital, Coimbatore – Prof. Ms. Padma Midwifery and Obstetrical Nursing Department.</li>
+                                                    <li>Effectiveness of Nurse-Led-Interventions on Bio-Psycho-Social aspects among students studying in selected school, Coimbatore, Tamil Nadu – Prof. Ms. Jamuna Rani Mental Health Nursing Department.</li>
+                                                    <li>Assessing the effectiveness of mental health promotion bundle on mental health outcome among preadolescents with screen dependency – Ms. Devi Krishna, Mental Health Nursing Department.</li>
+                                                    <li>Effect of centre and voice call based (CV – DSMC) Diabetes self Management Coaching on Clinical and Behavioral outcome among elderly People with type2 Diabetes Mellitus at RHTC KMCH, Coimbatore – Prof. Ms. Malarkodi Community Health Nursing Department.</li>
+                                                    <li>Effectiveness of mobile based life style modification on self–care compliance, metabolic profile and quality of life patients following Percutaneous coronary intervention – Ms. Jeevitha.J.V., Prof. Dr. S. Madhavi. Principal, Medical Surgical Nursing Department.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-        <h1 class="unique-header">Publications</h1>
-        <ul>
-            <li>Effectiveness of techno based lifestyle modification intervention self care compliance control of blood pressure among patients with uncontrolled hypertension at KMCH – Mr. G. Venkatesan.</li>
-            <li>Relationship between emotional stress among the staff nurse at KMCH – Mr. G. Venkatesan.</li>
-            <li>A Study to Assess the Knowledge, Attitude and Risk Profile of Breast Cancer Among Women in Selected Communities at Coimbatore, Tamil Nadu, India – Prof. Dr. S. Madhavi, Prof. Sivagami Ramanathan, S. Uma Malini.</li>
-        </ul>
+                                        <!-- Purpose -->
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsePurpose" aria-expanded="false" aria-controls="flush-collapsePurpose">
+                                                Research Conference
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapsePurpose" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>National Nursing Research Summit 2023: National Level Conference Theme: Navigating to Excellence in Nursing Research.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-        <h1 class="unique-header">Conferences Organized</h1>
-        <ul>
-            <li>THE XXIXTH STATE SNA VIRTUAL TNAI (Trained Nurses Association of India) BIENNIAL CONFERENCE, TAMIL NADU BRANCH – hosted by KMCH College of Nursing on 05.01.2022 with 600 delegates participating.</li>
-            <li>“ADOLESCENT PSYCHIATRY: AN UPDATE” 2022 (PSYCHIATRIC NURSING) STATE LEVEL CONFERENCE – organized by Department of Mental Health Nursing, KMCHCON on 01.07.2022 with 531 registered delegates.</li>
-        </ul>
- 
-        <h1 class="unique-header">Workshops</h1>
-        <ul>
-            <li>Workshop on “Safe delivery competencies” conducted for B.Sc(N) – IV 96 students from Mar 28th to 30th 2022 organized by Department of OBG nursing, KMCH College of nursing.</li>
-            <li>Workshop on Ostomy Care Organized by Department of Medical Surgical Nursing, KMCH CON from 29th to 31st March 2022. III yr B.Sc(N) and PBBsc (N) – I, 120 students benefited.</li>
-        </ul>
+                                        <!-- Motto -->
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMotto" aria-expanded="false" aria-controls="flush-collapseMotto">
+                                                Publications
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseMotto" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>Effectiveness of techno based lifestyle modification intervention self care compliance control of blood pressure among patients with uncontrolled hypertension at KMCH – Mr. G. Venkatesan.</li>
+                                                    <li>Relationship between emotional stress among the staff nurse at KMCH – Mr. G. Venkatesan.</li>
+                                                    <li>A Study to Assess the Knowledge, Attitude and Risk Profile of Breast Cancer Among Women in Selected Communities at Coimbatore, Tamil Nadu, India – Prof. Dr. S. Madhavi, Prof. Sivagami Ramanathan, S. Uma Malini.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- Core Values -->
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseCoreValues" aria-expanded="false" aria-controls="flush-collapseCoreValues">
+                                                Conferences Organized
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseCoreValues" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>THE XXIXTH STATE SNA VIRTUAL TNAI (Trained Nurses Association of India) BIENNIAL CONFERENCE, TAMIL NADU BRANCH – hosted by KMCH College of Nursing on 05.01.2022 with 600 delegates participating.</li>
+                                                    <li>“ADOLESCENT PSYCHIATRY: AN UPDATE” 2022 (PSYCHIATRIC NURSING) STATE LEVEL CONFERENCE – organized by Department of Mental Health Nursing, KMCHCON on 01.07.2022 with 531 registered delegates.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button faq-expend collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseCoreValues" aria-expanded="false" aria-controls="flush-collapseCoreValues">
+                                                Workshops
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h2>
+                                            <div id="flush-collapseCoreValues" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                                <div class="accordion-body text-start">
+                                                <ul>
+                                                    <li>Workshop on “Safe delivery competencies” conducted for B.Sc(N) – IV 96 students from Mar 28th to 30th 2022 organized by Department of OBG nursing, KMCH College of nursing.</li>
+                                                    <li>Workshop on Ostomy Care Organized by Department of Medical Surgical Nursing, KMCH CON from 29th to 31st March 2022. III yr B.Sc(N) and PBBsc (N) – I, 120 students benefited.</li>
+                                                </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
     </div>
         <!-- campus choose area end -->
 
